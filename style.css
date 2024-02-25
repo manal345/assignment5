@@ -1,0 +1,57 @@
+div {
+  background-color: blue (152, 110, 25, 0.905);
+  border-width: 10px;
+  border-style: solid;
+  margin: 67px;
+  padding: 20px;
+  text-align: center;
+  
+}
+div hr{
+color:7px solid rgba(14, 77, 171, 0.736);
+}
+p {
+  font-size: 20px;
+}
+h1 {
+  font-size: 20px;
+font-family: Geneva, Verdana, sans-serif;}
+  .my:first-letter {
+ font-size: 45px;
+
+
+} 
+h1 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.923);
+}
+.mine:first-letter {
+  font-size: 45px;
+}
+ul {
+font-family:Arial, Helvetica, sans-serif ;
+
+}
+
+h2 {
+  font-size: 34px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(23, 105, 228, 0.822);
+}
+
+.btn
+{
+  background-color: rgba(48, 14, 241, 0.849);
+}
+ul li 
+{
+  justify-content: center;
+}
+ p a:hover
+ {
+  color: brown;
+ }
+a:visited
+ {
+  color: brown;
+ }
